@@ -126,7 +126,7 @@ It helps businesses optimize strategy, improve profitability, and make proactive
 
 <h3> Power BI Dashboard</h3>
 <p align="center">
-  <img src="Screenshots/powerbi-dashboard.png" width="900"/>
+  <img src="Dashboard_powerbi.png" width="900"/>
 </p>
 
 <h3> Tableau Dashboard</h3>
