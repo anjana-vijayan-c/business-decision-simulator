@@ -121,6 +121,7 @@ It helps businesses optimize strategy, improve profitability, and make proactive
 
 <h3> Excel Simulator</h3>
 <p align="center">
+  <p align="center"><i>Interactive what-if analysis model for evaluating pricing, marketing, and inventory decisions for a selected product.</i></p>
   <img src="excel_simulator.png" width="900"/>
 </p>
 
