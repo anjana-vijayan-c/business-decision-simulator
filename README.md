@@ -121,7 +121,7 @@ It helps businesses optimize strategy, improve profitability, and make proactive
 
 <h3> Excel Simulator</h3>
 <p align="center">
-  <img src="Screenshots/excel-simulator.png" width="900"/>
+  <img src="Dashboard_Excel.png" width="900"/>
 </p>
 
 <h3> Power BI Dashboard</h3>
