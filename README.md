@@ -131,7 +131,7 @@ It helps businesses optimize strategy, improve profitability, and make proactive
 
 <h3> Tableau Dashboard</h3>
 <p align="center">
-  <img src="Screenshots/tableau-dashboard.png" width="900"/>
+  <img src="Dashboard_tableau.png" width="900"/>
 </p>
 
 <hr>
