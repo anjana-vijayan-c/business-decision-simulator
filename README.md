@@ -84,7 +84,7 @@ Business-Decision-Simulator/
 │   └── business_decision_simulator.xlsx
 │
 │── PowerBI/
-│   └── business_desicion_simulator_&_performance_dashboard.pbix
+│   └── business_decision_simulator_&_performance_dashboard.pbix
 │
 │── Tableau/
 │   └── business_performance_dashboard.twbx
@@ -103,7 +103,7 @@ Business-Decision-Simulator/
   <li> Marketing boosts sales, but returns reduce after a point</li>
   <li> Inventory shortages lead to missed sales opportunities</li>
   <li> Performance varies across regions and product categories</li>
-  <li>🎯 Balanced decisions create sustainable business growth</li>
+  <li> Balanced decisions create sustainable business growth</li>
 </ul>
 
 <hr>
@@ -141,7 +141,7 @@ It helps businesses optimize strategy, improve profitability, and make proactive
 
 <p>
 <b>Anjana C</b><br>
-Aspiring Business Analyst | Data Analyst | Turning Data into Decisions 🚀
+Aspiring Business Analyst | Data Analyst | Turning Data into Decisions 
 </p>
 
 <hr>
